@@ -2,7 +2,7 @@
   {
     "name": "pmo",
     "level": 4,
-    "maxLevel": 50,
+    "maxLevel": 100,
     "time": "2013-02-09T19:22:18.000+0100",
     "gravatar": "http://www.gravatar.com/avatar/e3911f7d93df38031fbc61a9fa301c80?s\u003d64",
     "perf": 0,
@@ -11,7 +11,7 @@
   {
     "name": "bperroud",
     "level": 1,
-    "maxLevel": 50,
+    "maxLevel": 100,
     "time": "2013-02-09T19:22:18.000+0100",
     "gravatar": "http://www.gravatar.com/avatar/448766d173982d041cc86f409c41d134?s\u003d64",
     "perf": 0,
@@ -19,39 +19,54 @@
   },
   {
     "name": "ojacquemart",
-    "level": 30,
-    "maxLevel": 50,
-    "time": "2013-02-09T23:00:18.000+0100",
+    "level": 100,
+    "maxLevel": 100,
+    "time": "2013-02-10T16:45:20.000+0100",
     "gravatar": "http://www.gravatar.com/avatar/b4fdebc9f06d32a4cc97f5be84fe5b29?s\u003d64",
     "perf": 0,
     "maxPerf": 1000
-  }
-  ,
+  },
   {
     "name": "claire",
-    "level": 10,
-    "maxLevel": 50,
-    "time": "2013-02-09T19:23:06.000+0100",
+    "level": 45,
+    "maxLevel": 100,
+    "time": "2013-02-10T18:45:20.000+0100",
     "gravatar": "http://www.gravatar.com/avatar/a535d50d5aa27b6e33c9abef309be6ff?s\u003d64",
     "perf": 0,
     "maxPerf": 1000
-  }
-  ,
+  },
   {
     "name": "rep",
     "level": 10,
-    "maxLevel": 50,
+    "maxLevel": 100,
     "time": "2013-02-09T19:22:18.000+0100",
     "gravatar": "http://www.gravatar.com/avatar/8500d29b51776c912c1377de706e8701?s\u003d64",
     "perf": 0,
     "maxPerf": 1000
-  }
-  ,
+  },
   {
     "name": "rem",
-    "level": 30,
-    "maxLevel": 50,
-    "time": "2013-02-09T19:23:06.000+0100",
+    "level": 100,
+    "maxLevel": 100,
+    "time": "2013-02-10T01:23:06.000+0100",
+    "gravatar": "http://www.gravatar.com/avatar/b9acc3a75157350f2ccd35a31bfde4f1?s\u003d64",
+    "perf": 0,
+    "maxPerf": 1000
+  },
+  {
+    "name": "skyluc",
+    "level": 10,
+    "maxLevel": 100,
+    "time": "2013-02-10T16:45:20.000+0100",
+    "gravatar": "http://www.gravatar.com/avatar/b9acc3a75157350f2ccd35a31bfde4f1?s\u003d64",
+    "perf": 0,
+    "maxPerf": 1000
+  },
+  {
+    "name": "AlexTp",
+    "level": 1,
+    "maxLevel": 100,
+    "time": "2013-02-10T16:45:20.000+0100",
     "gravatar": "http://www.gravatar.com/avatar/b9acc3a75157350f2ccd35a31bfde4f1?s\u003d64",
     "perf": 0,
     "maxPerf": 1000
